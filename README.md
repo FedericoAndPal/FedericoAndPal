@@ -30,4 +30,4 @@ I speak Spanish natively and can also work with English documentation and projec
 
 ## Contact
 
-- Discord: `tu_usuario_de_discord`
+- Discord: `@fede.andrada`
