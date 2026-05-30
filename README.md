@@ -20,5 +20,5 @@ My main focus is learning backend development, Python, databases, and APIs. I al
 
 ### Tech Stack
 
-```txt
+
 Python · MySQL · Discord.py · HTML · CSS · JavaScript · REST APIs · Git
