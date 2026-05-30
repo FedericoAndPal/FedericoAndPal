@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Federico 👋
 
-<!--
-**FedericoAndPal/FedericoAndPal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Informatics Engineering student at the University of Buenos Aires, currently learning and building projects with Python, backend development, and web technologies.
 
-Here are some ideas to get you started:
+I enjoy creating practical tools, working with APIs, and improving my programming skills through real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- Learning backend development with Python
+- Building REST APIs
+- Practicing MySQL and database design
+- Creating small web projects with HTML, CSS and JavaScript
+- Working on university projects and personal experiments
+
+## Tech I'm learning / using
+
+- Python
+- MySQL
+- Discord.py
+- HTML / CSS
+- JavaScript
+- REST APIs
+- Git & GitHub
+
+## About me
+
+I'm still early in my developer journey, but I'm focused on improving consistently and building projects that solve real problems.
+
+I speak Spanish natively and can also work with English documentation and projects.
+
+## Contact
+
+- Discord: `tu_usuario_de_discord`
